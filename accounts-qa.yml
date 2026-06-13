@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Sia - QA Lead"
+    email: "sia.modumudi@eazybank.com"
+  onCallSupport:
+    - (666) 658-6978
+    - (666) 546-3574

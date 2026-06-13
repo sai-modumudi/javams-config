@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Priya - Product Owner"
+    email: "priya@eazybank.com"
+  onCallSupport:
+    - (455) 345-6978
+    - (939) 206-3574
